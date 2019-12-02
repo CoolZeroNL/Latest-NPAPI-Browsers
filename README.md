@@ -1,4 +1,11 @@
-Google Chrome 44.0.2403.157 for Windows
+# Firefox 52
+
+Unfortunately, It´s not possible anymore to enable NPAPI using a Firefox version older than 52.Please be aware that Firefox autoupdates by default, so more often than not, you need to uninstall first to install an older version.
+
+Download Firefox version 52 for your OS here: https://ftp.mozilla.org/pub/firefox/releases/52.0/ and install the software. Please make sure to `disable the maintenance service` in the installation wizard.
+
+
+# Google Chrome 44.0.2403.157 for Windows
 
 This is the final version of Google Chrome with NPAPI.
 
